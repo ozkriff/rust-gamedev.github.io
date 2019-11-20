@@ -44,7 +44,39 @@ If needed, a section can be split into subsections with a "------" delimiter.
 
 ## Game Updates
 
+### Zemeroth
+
+I finally found time to work on adding ability icons and descriptions to #Zemeroth!
+
+Also, improving ZGui a little bit: better color handling, better offsets, layered widget layout, etc.
+
+TODO: img: <https://twitter.com/ozkriff/status/1186688155384188928>
+
+### MrVallentin's Voxels! (TODO: title)
+
+(removed from October because only ine tweet)
+
+TODO: other tweets?
+
+<https://twitter.com/MrVallentin/status/1185616703536947204>
+
+> - [@MrVallentin] tweeted a bunch of updates about their voxel engine:
+
+[@MrVallentin]: https://twitter.com/MrVallentin
+
 ## Library & Tooling updates
+
+### [Pixels][pixels]
+
+![TODO: local, smaller, desc](https://raw.githubusercontent.com/parasyte/pixels/master/img/pixels.png)
+
+> [Pixels][pixels] is a tiny hardware-accelerated pixel frame buffer. crab
+
+TODO: Uses wgpu.
+
+[pixels]: https://github.com/parasyte/pixels
+
+**TODO**: <https://reddit.com/r/rust_gamedev/comments/drunej/announcing_pixels_hardwareaccelerated_pixel_frame>
 
 ### Other Library & Tooling News
 
@@ -53,6 +85,9 @@ If needed, a section can be split into subsections with a "------" delimiter.
 ## Popular Workgroup Issues in Github
 
 <!-- Up to 10 links to interesting issues -->
+
+- [#68 "Modding"](https://github.com/rust-gamedev/wg/issues/68)
+- [#69 "Input Handling"](https://github.com/rust-gamedev/wg/issues/69)
 
 ## Meeting Minutes
 
@@ -71,6 +106,8 @@ or [join the next meeting][join].
 
 <!-- Bonus section to make the newsletter more interesting
 and highlight events from the past. -->
+
+**TODO**: <https://reddit.com/r/rust_gamedev/comments/a6ive6/adventures_of_pascal_penguin_is_complete>
 
 ------
 
